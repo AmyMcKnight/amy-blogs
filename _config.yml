@@ -1,0 +1,18 @@
+# Site settings
+title: A Coding Blog
+header-img: img/home-bg.jpg
+email: simplyamym@gmail.com.com
+description: "My journey from advanced beginner to expert web developer."
+baseurl: "/amy-blogs"
+url: "http://yourdomain.com"
+twitter_username: amymcknight
+github_username:  amymcknight
+facebook_username:  SimplyAmyMcKnight
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+gems: [jekyll-paginate]
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
