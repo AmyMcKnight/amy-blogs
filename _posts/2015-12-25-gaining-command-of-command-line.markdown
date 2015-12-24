@@ -16,6 +16,8 @@ header-img: "img/post-bg-05.jpg"
 
 <p>For those who have seen the Earth from space, and for the hundreds and perhaps thousands more who will, the experience most certainly changes your perspective. The things that we share in our world are far more valuable than those which divide us.</p>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VUaBfYCmJls" frameborder="0" allowfullscreen></iframe>
+
 <h2 class="section-heading">The Final Frontier</h2>
 
 <p>There can be no thought of finishing for ‘aiming for the stars.’ Both figuratively and literally, it is a task to occupy the generations. And no matter how much progress one makes, there is always the thrill of just beginning.</p>
