@@ -7,7 +7,8 @@ header-img: "img/happy-new-year-2016.jpg"
 ---
 
 <p>Wow, it's January 1, 2016. A new year and a new opportunity to make a difference in my life and the lives of others. I've never been one for making resolutions. But here are a few things that I would like to do in the coming year. I'll be adding to this page and editing it as I go through the next 364 days. For now here is what I have on my list:</p>
-    -Master git/github.
+
+-Master git/github.
     -Master blogging with Jekyll.
     -Blog daily.
     
