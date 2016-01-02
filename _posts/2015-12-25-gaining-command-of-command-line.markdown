@@ -6,20 +6,17 @@ author:     "Amy McKnight"
 header-img: "img/happy-new-year-2016.jpg"
 ---
 
-<p>Wow, it's January 1, 2016. A new year and a new opportunity to make a difference in my life and the lives of others. I've never been one for making resolutions. But here are a few things that I would like to do in the coming year. I'll be adding to this page and editing it as I go through the next 364 days. For now here is what I have on my list:</p>
+Wow, it's January 1, 2016. A new year and a new opportunity to make a difference in my life and the lives of others. I've never been one for making resolutions. But here are a few things that I would like to do in the coming year. I'll be adding to this page and editing it as I go through the next 364 days. For now here is what I have on my list:
 
--Master git/github.
-    -Master blogging with Jekyll.
-    -Blog daily.
-    
-
-        <li>Master git/github.</li>
-        <li>Master blogging with Jekyll.</li>
-        <li>Blog daily.</li>
-        <li>Code daily.</li>
-        <li>Finish Chris Pines Ruby book.</li>
-        <li>Finish Zed Shaw's Ruby book.</li>
-        <li>Post to Medium weekly.</li>
-        <li>Find someone to help with their coding journey</li>
-        <li>(. . .to be continued.)</li>
+1. Master git/github.
+2. Master blogging with Jekyll.
+3. Blog daily.
+4. Code daily.
+5. Finish Chris Pines Ruby book.
+6. Finish Zed Shaw's Ruby book.
+7. Post to Medium weekly.
+8. Find someone to help with their coding journey.
+9. Imporve CSS Skills
+10. Help more people get on the web.
+11. Get remote development job.
 
