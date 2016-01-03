@@ -7,6 +7,7 @@ header-img: "img/about-bg.jpg"
 ---
 
 A wise person once said:
+
 >A person's gift opens doors for him, 
 >bringing him access to important people.
 
@@ -17,7 +18,11 @@ But I wasn't being delinquent. Promise. I was working on a video application to 
 One of my "gifts" has been that of mastering tools to make them do what I need them to do. The current tool that I'm using right now is a peice of white board animation software. 
 
 So instead of just writing an email saying:
->"Listen, I really love your program! I've tried out your intro and it has some of the best information that I've gone over paid or free. I totally want to be amoung those who have gone through your bootcame and done something great. I just don't have the funds. So could you help a sista out?"
+
+>"Listen, I really love your program! I've tried out your intro and it has 
+>some of the best information that I've gone over paid or free. I totally want to 
+>be amoung those who have gone through your bootcame and done something great. 
+>I just don't have the funds. So could you help a sista out?"
 
 Ok, so I actually would never, ever, in this life write something like that. But that is probably how it would feel to the founder. Besides for all it's good asside from emojis and smilie faces it is hard to really express your feelings through email. 
 
