@@ -5,24 +5,29 @@ date:       2016-01-03 20:20:00
 author:     "Amy McKnight"
 header-img: "img/about-bg.jpg"
 ---
-It is 8:19 p.m. And I am so reay for bed. And I am going. Soon
+Will Rogers:
 
-To day started at 4:20 something. I was up before my alarm looking forward to coding in peace and quiet.  I had been working through Chris Pines ruby book online. But when Conrad decided that he wanted to join me in my coding adventure. He got the new improved updated version. Of course. 
+>You've got to go out on a limb sometimes 
+>because that's where the fruit is.
 
-So, I've back tracked a little and am reviewing this new edition. I can see that he has made some changes since he published that first online copy. Different jokes and antidotes. Some of the challenges have been tweaked.
+Today is the last day of our vacation. It was also the day that I was finally able to complete the video application for a scholarship to go to the bootcamp that I was accepted into right before Christmas. 
 
-Last week we were on "vacation" and so I didn't get to do as much coding as I wasn't going to bed early or waking up early. Also didn't want to be totally antisocial. It was, supposed to be a family vacation. 
+It is truly all or nothing. That is I either get a full scholarship or I'm back at square one continuing to plug along on my self paced coding journey. 
 
-Today was a real jolt. I had a customer waiting from me as I was walking into the shop with 'Lil Bit. It was 9:30. We don't open until 10. Her timing was perfect. She had been waiting for us to reopen for a week and a half. 
+There is a part of me that wants to go the "self-taught programmer" route. That part of me that likes to feel that I can do anything that I can put my mind to doing. Which I can. My husband said so:
 
-She was one of many.
+Conrad: "You can do whatever you really want to do."
+Amy: "No, I can't."
+Conrad: "Yes you can."
+Amy: "Not really. I can't be a rocket scientist."
+Conrad: "Yes you could."
+Amy: "No, I really can't."
+Conrad: "Yes you could. If you really wanted to  you would find scholarships to go back to school. You would find a way to take classes. It might take you the next 20 years but you'd do it."
 
-Conrad and Jamel were killing it. We must have gotten in 20 or more computers. I lost count. But they had everything diagnosed and many things fixed before 4. Ms. Margaret the customer who was waiting first thing in the morning, she had her computer back well before we closed. We more than enough time for her to call and me to walk her through reconnecting her internet.
+That's one of the reasons I married him. But back to the subject at hand. I don't want to take more time than necessary. The older I get the more I am aware of how much time I've used. Time is precious. So even though I know that I COULD find a way to get this done on my own. I really hope that a door is opened so that I don't have to.
 
-Today was almost busy enough to keep me from repetitivley checking my phone to see if I had gotten an email response from the video I sent. Almost.
+So I'm totally hanging out on a limb. Praying that there will be a sweet peice of fruit on the end and that I don't hear it snap under the weight of a disapointed dream. 
 
-It has been officially 24 hours. It is a Monday. They start classes every Monday. They are coming off a holiday weekend. I emailed a founder. He's a busy person. He probably has a ton of emails.  It's only been 24 hours.
+It has been sent. All I can do is wait. 
 
-The things you tell yourself when you are trying to patiently wait but are hoping for an answer soon. 
-
-8:35 p.m. got to go. Really need to get to bed soon. I have more than an hours worth of things to do before I go. 
+How have you put yourself out on a limb? Did you get the fruit? Did the limb break? I'd love for you to tell me about it in the comments.
