@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Sipping from the Waterhose until I can Drink from the Firehose"
-date:       2016-01-05 05:48:00
+date:       2016-01-06 05:48:00
 author:     "Amy McKnight"
 header-img: "img/about-bg.jpg"
 ---
