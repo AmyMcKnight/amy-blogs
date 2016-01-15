@@ -1,0 +1,13 @@
+---
+layout:     post
+title:      "Flux"
+date:       2016-01-14 21:21:00
+author:     "Amy McKnight"
+header-img: "img/about-bg.jpg"
+---
+
+The blessing and curse of learning to code in 2016 is that there are so many resources and choices out there.
+
+While I flutter around Conrad is sticking to the path and towing the line. Between the two of us I'll get finished and make progress.
+
+Tomorrow is our 10 year anniversary. I'm glad to be starting this new adventure in back end programing with him.
