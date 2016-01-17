@@ -1,0 +1,13 @@
+---
+layout:     post
+title:      "Day 1 Again"
+date:       2016-01-16 20:34:00
+author:     "Amy McKnight"
+header-img: "img/about-bg.jpg"
+---
+Yesterday was my 10th wedding aniversary. Was so busy i totally forgot to check in. And writ a little code.
+
+So my github activity streak was broken. I must start again.
+
+Tomorrow I'll work on finishing Chris Pines book. Then Zed Shaw's. Then on to ruby on rails. 
+
