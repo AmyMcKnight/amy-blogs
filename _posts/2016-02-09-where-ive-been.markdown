@@ -43,7 +43,7 @@ To say I was excited and motivated to pull out all of the stops would be an unde
 
 I will know the results in the next week. 
 
-Stay tuned. 
+Stay tuned. . .
 
 
 
