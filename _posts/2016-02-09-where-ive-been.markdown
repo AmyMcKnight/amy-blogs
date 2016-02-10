@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Where I've Been. . ."
-date:       2016-09-16 20:34:00
+date:       2016-02-09 20:34:00
 author:     "Amy McKnight"
 header-img: "img/about-bg.jpg"
 ---
